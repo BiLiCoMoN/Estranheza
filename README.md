@@ -12,6 +12,20 @@
 
 ---
 
+## Camada Overview (porta de entrada)
+
+O diretório `00-mapa-de-estudos/overview/` funciona como uma camada introdutória e de acesso rápido ao projeto.
+
+- Propósito: oferecer um panorama conciso das áreas principais, com fichas sintetizadas (uma ficha por área) e uma página `overview.md` que atua como porta de entrada para leitores e colaboradores.
+- Estrutura principal:
+    - `00-mapa-de-estudos/overview.md` — documento de entrada que descreve o propósito e o estado geral do mapa.
+    - `00-mapa-de-estudos/overview/01-percepcao.md` … `10-literatura.md` — dez fichas de overview, uma por área, contendo conceitos-chave, leituras sugeridas da curadoria e orientações de aprofundamento.
+- Nota importante: o conteúdo das fichas foi preenchido estritamente com a curadoria fornecida (sem pesquisas externas ou invenção de fontes).
+
+Use esta camada quando quiser uma visão rápida antes de entrar em leituras mais detalhadas no mapa principal.
+
+---
+
 ## 🧭 Sobre este projeto
 
 Este repositório é um ambiente de investigação interdisciplinar.
