@@ -29,16 +29,16 @@ Breve introdução a processos perceptivos e de reconhecimento: percepção, org
 **Leituras gratuitas**
 
 - OpenStax — Psychology 2e — 5.1 Sensation versus Perception
-  https://openstax.org/books/psychology-2e/pages/5-1-sensation-versus-perception
+  - [OpenStax — Psychology 2e — 5.1 Sensation versus Perception](https://openstax.org/books/psychology-2e/pages/5-1-sensation-versus-perception)
 
 - OpenStax — Psychology 2e — 5.6 Gestalt Principles of Perception
-  https://openstax.org/books/psychology-2e/pages/5-6-gestalt-principles-of-perception
+  - [OpenStax — Psychology 2e — 5.6 Gestalt Principles of Perception](https://openstax.org/books/psychology-2e/pages/5-6-gestalt-principles-of-perception)
 
 - Bruce & Young (1986) — Understanding Face Recognition
-  https://doi.org/10.1111/j.2044-8295.1986.tb02199.x
+  - Bruce & Young (1986) — Understanding Face Recognition — [https://doi.org/10.1111/j.2044-8295.1986.tb02199.x](https://doi.org/10.1111/j.2044-8295.1986.tb02199.x)
 
 - Young & Bruce (2011) — Understanding Person Perception
-  https://doi.org/10.1111/j.2044-8295.2011.02045.x
+  - Young & Bruce (2011) — Understanding Person Perception — [https://doi.org/10.1111/j.2044-8295.2011.02045.x](https://doi.org/10.1111/j.2044-8295.2011.02045.x)
 
 > Observação: Bruce & Young é leitura mais especializada e pode ser pulada no primeiro contato.
 
@@ -83,16 +83,17 @@ Introdução às hipóteses sobre human likeness, perceptual mismatch, categoric
 **Fonte gratuita prioritária**
 
 - Kätsyri, Förger, Mäkäräinen & Takala (2015)
-  https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2015.00390/full
+  - Kätsyri, Förger, Mäkäräinen & Takala (2015) — [Frontiers review](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2015.00390/full)
 
 **Versão gratuita complementar**
 
 - https://pmc.ncbi.nlm.nih.gov/articles/PMC4392592/
+  - [Versão gratuita (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC4392592/)
 
 **Fonte complementar (referência não gratuita na lista)**
 
 - Uncanny valley effect: A qualitative synthesis of empirical research to assess the suitability of using virtual faces in psychological research (2023)
-  https://doi.org/10.1016/j.chbr.2023.100288
+  - Uncanny valley effect: A qualitative synthesis of empirical research to assess the suitability of using virtual faces in psychological research (2023) — [https://doi.org/10.1016/j.chbr.2023.100288](https://doi.org/10.1016/j.chbr.2023.100288)
 
 **O que a ciência NÃO permite concluir**
 
@@ -181,13 +182,13 @@ Ficha: [Narratologia](overview/09-narratologia.md)
 Obras públicas gratuitas selecionadas para exemplificar temas do projeto:
 
 - Mary Shelley — Frankenstein (Project Gutenberg)
-  https://www.gutenberg.org/files/42324/42324-h/42324-h.htm
+  - [Mary Shelley — Frankenstein (Project Gutenberg)](https://www.gutenberg.org/files/42324/42324-h/42324-h.htm)
 
 - Henry James — The Turn of the Screw (Project Gutenberg)
-  https://www.gutenberg.org/ebooks/209
+  - [Henry James — The Turn of the Screw (Project Gutenberg)](https://www.gutenberg.org/ebooks/209)
 
 - Franz Kafka — The Metamorphosis (Project Gutenberg)
-  https://www.gutenberg.org/ebooks/5200
+  - [Franz Kafka — The Metamorphosis (Project Gutenberg)](https://www.gutenberg.org/ebooks/5200)
 
 Ficha: [Literatura](overview/10-literatura.md)
 
