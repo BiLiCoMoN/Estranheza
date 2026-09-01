@@ -14,13 +14,24 @@
 
 ## Camada Overview (porta de entrada)
 
-O diretório `00-mapa-de-estudos/overview/` funciona como uma camada introdutória e de acesso rápido ao projeto.
 
-- Propósito: oferecer um panorama conciso das áreas principais, com fichas sintetizadas (uma ficha por área) e uma página `overview.md` que atua como porta de entrada para leitores e colaboradores.
-- Estrutura principal:
-    - `00-mapa-de-estudos/overview.md` — documento de entrada que descreve o propósito e o estado geral do mapa.
-    - `00-mapa-de-estudos/overview/01-percepcao.md` … `10-literatura.md` — dez fichas de overview, uma por área, contendo conceitos-chave, leituras sugeridas da curadoria e orientações de aprofundamento.
-- Nota importante: o conteúdo das fichas foi preenchido estritamente com a curadoria fornecida (sem pesquisas externas ou invenção de fontes).
+O diretório [00-mapa-de-estudos/overview/](00-mapa-de-estudos/overview/) funciona como uma camada introdutória e de acesso rápido ao projeto.
+
+- **Propósito:** oferecer um panorama conciso das áreas principais, com fichas sintetizadas (uma ficha por área) e uma página [overview.md](00-mapa-de-estudos/overview.md) que atua como porta de entrada para leitores e colaboradores.
+- **Estrutura principal:**
+    - [00-mapa-de-estudos/overview.md](00-mapa-de-estudos/overview.md) — documento de entrada que descreve o propósito e o estado geral do mapa.
+    - Fichas de overview (links):
+        - [01-percepcao.md](00-mapa-de-estudos/overview/01-percepcao.md)
+        - [02-cognicao-social.md](00-mapa-de-estudos/overview/02-cognicao-social.md)
+        - [03-biologia-e-afeto.md](00-mapa-de-estudos/overview/03-biologia-e-afeto.md)
+        - [04-vale-da-estranheza.md](00-mapa-de-estudos/overview/04-vale-da-estranheza.md)
+        - [05-o-estranho.md](00-mapa-de-estudos/overview/05-o-estranho.md)
+        - [06-monstruosidade.md](00-mapa-de-estudos/overview/06-monstruosidade.md)
+        - [07-horror.md](00-mapa-de-estudos/overview/07-horror.md)
+        - [08-semiotica.md](00-mapa-de-estudos/overview/08-semiotica.md)
+        - [09-narratologia.md](00-mapa-de-estudos/overview/09-narratologia.md)
+        - [10-literatura.md](00-mapa-de-estudos/overview/10-literatura.md)
+- **Nota importante:** o conteúdo das fichas foi preenchido estritamente com a curadoria fornecida (sem pesquisas externas ou invenção de fontes).
 
 Use esta camada quando quiser uma visão rápida antes de entrar em leituras mais detalhadas no mapa principal.
 
